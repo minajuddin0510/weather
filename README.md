@@ -10,7 +10,7 @@ A clean, modern weather app built with pure HTML, CSS, and JavaScript. Search an
 
 ---
 
-## 📸 Preview
+![WeatherNow Preview](preview.png)
 
 preview.png
 
