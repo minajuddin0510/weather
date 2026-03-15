@@ -6,7 +6,7 @@ A clean, modern weather app built with pure HTML, CSS, and JavaScript. Search an
 
 ## 🚀 Live Demo
 
-> Coming soon — will be hosted on GitHub Pages
+https://minajuddin0510.github.io/weather/
 
 ---
 
